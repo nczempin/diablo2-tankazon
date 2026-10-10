@@ -1351,5 +1351,93 @@
   "sha256": "8397ea0578b32f2803e22dc55a9a0bfa74e41225daf5f6f43b96d792a54b8db4",
   "source": "Nic shared stash p1 2026-10-10 (grades per Nic)",
   "status": "confirmed"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "misc",
+  "dhash": "76cc985abb9ac8f9",
+  "file": "misc/horadric-cube-speculation-quest-cube-icon-bd91f098.png",
+  "name": "Horadric Cube (speculation: quest cube icon)",
+  "phash": "919566286e5b69da",
+  "sha256": "bd91f098ed6b44515e6edc1865c671788a6a5777e0c2e93ad4189d37b5eb689c",
+  "source": "Nic Joe private stash r1c1 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "misc",
+  "dhash": "c5e565b1dbc984f6",
+  "file": "misc/staff-of-kings-speculation-horadric-staff-shaft-twisted-ceb35dbf.png",
+  "name": "Staff of Kings (speculation: Horadric Staff shaft, twisted)",
+  "phash": "8acee6b37934b824",
+  "sha256": "ceb35dbfb7bd3d3442672e17e86dcb7f3b518c76d7e99d0435196a7cf5474087",
+  "source": "Nic Joe private stash r1c3 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "helm",
+  "dhash": "71f1d1b3c999b9b1",
+  "file": "helm/skull-helm-red-bg-speculation-bone-helm-or-grim-helm-7005d4b6.png",
+  "name": "skull helm, red bg (speculation: Bone Helm or Grim Helm)",
+  "phash": "cbcd3c3366383266",
+  "sha256": "7005d4b616ced975ab7c1d858a0dadcb736ac65ff25b9316bfff972157de7765",
+  "source": "Nic Joe private stash r3c5 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "shield",
+  "dhash": "c58dd37369b9bcc6",
+  "file": "shield/skull-with-red-tassel-red-bg-speculation-necromancer-head-e-g-mummified-trophy-or-fetish-trophy-7a7f6372.png",
+  "name": "skull with red tassel, red bg (speculation: Necromancer head, e.g. Mummified Trophy or Fetish Trophy)",
+  "phash": "8969341acf9d4b66",
+  "sha256": "7a7f637278cca3a73192f1662e6cce3880e098ae6644469b7cf075431ea2d17b",
+  "source": "Nic Joe private stash r2c9 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "shield",
+  "dhash": "c58dd37369b9bcc6",
+  "file": "shield/skull-with-red-tassel-b-red-bg-speculation-same-base-as-the-other-62c36058.png",
+  "name": "skull with red tassel B, red bg (speculation: same base as the other)",
+  "phash": "8969341acf9d4b66",
+  "sha256": "62c36058bece71849db2cef4ba99da3c54f7ec41bfd65c2c6ee10976b36fc4e7",
+  "source": "Nic Joe private stash r4c9 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "weapon",
+  "dhash": "8581c527dbadd4ea",
+  "file": "weapon/gold-skull-wand-speculation-bone-wand-or-grim-wand-magic-rare-1008c307.png",
+  "name": "gold skull wand (speculation: Bone Wand or Grim Wand, magic/rare)",
+  "phash": "c0c0e13b3f3e1b1b",
+  "sha256": "1008c307fd1a47b77f8cffb41158f511829c06cf9779235180e4cf47dfd58ced",
+  "source": "Nic Joe private stash r8c2 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "weapon",
+  "dhash": "8581c5a7dbadf4da",
+  "file": "weapon/silver-skull-wand-red-bg-speculation-grim-wand-5e21cf37.png",
+  "name": "silver skull wand, red bg (speculation: Grim Wand)",
+  "phash": "c0c0e13b3f3e1b1b",
+  "sha256": "5e21cf373299308b5ec874936ac35abfadae1679a48c5ea15eede2ca788aa507",
+  "source": "Nic Joe private stash r8c3 2026-10-10",
+  "status": "pending"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "weapon",
+  "dhash": "91d96db5d3a9ecd6",
+  "file": "weapon/red-gold-rod-red-bg-speculation-wand-same-art-as-shared-p2-red-gold-rod-5122d82b.png",
+  "name": "red-gold rod, red bg (speculation: wand, same art as shared p2 red-gold rod)",
+  "phash": "8269f0326d1e4f2f",
+  "sha256": "5122d82b97b544ce4fdb9b2c3b0e68c1791ecaee37e6fcdeffc9be484bbd13ba",
+  "source": "Nic Joe private stash r8c4 2026-10-10",
+  "status": "pending"
  }
 ]
