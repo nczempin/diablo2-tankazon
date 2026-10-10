@@ -410,100 +410,100 @@
   "added": "2026-10-10",
   "category": "amulet",
   "dhash": "73f1f0e4f0e47859",
-  "file": "amulet/amulet-sun-face-a0c8df6d.png",
-  "name": "amulet (sun face)",
+  "file": "amulet/amulet-of-the-apprentice-a0c8df6d.png",
+  "name": "Amulet of the Apprentice",
   "phash": "9d8d7826b7c6c498",
   "sha256": "a0c8df6d7ea50438099faf7190feff9e4cb144c9bcd2c20cdaf9b2aef49b01e4",
   "source": "Nic shared stash p1 r5c2 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "ring",
   "dhash": "6358a4625a6c7c4c",
-  "file": "ring/ring-orange-stone-365fd5b5.png",
-  "name": "ring (orange stone)",
+  "file": "ring/steel-ring-of-the-apprentice-365fd5b5.png",
+  "name": "Steel Ring of the Apprentice",
   "phash": "97497233e99c64b1",
   "sha256": "365fd5b5819ea68e9071436e5592cc81a8119647e46b5dfd4e1e762b7397855b",
   "source": "Nic shared stash p1 r6c2 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "ring",
   "dhash": "3171d1d9cc643c4d",
-  "file": "ring/ring-dark-09b58aa2.png",
-  "name": "ring (dark)",
+  "file": "ring/lizard-s-ring-of-greed-09b58aa2.png",
+  "name": "Lizard's Ring of Greed",
   "phash": "92493c967299e5b6",
   "sha256": "09b58aa2c1ac21a24fb401db439b734f81faabaf3d71a923bedc509189b48963",
   "source": "Nic shared stash p1 r7c6 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "ring",
   "dhash": "316cd8dcb0dc7838",
-  "file": "ring/ring-blue-faceted-8a68f3c2.png",
-  "name": "ring (blue faceted)",
+  "file": "ring/ring-of-strength-blue-faceted-8a68f3c2.png",
+  "name": "Ring of Strength (blue faceted)",
   "phash": "93c53e5868db6199",
   "sha256": "8a68f3c284e4bd192d71efefccebbf73926c309301e218b64e722a9a85fca5da",
   "source": "Nic shared stash p1 r9c2 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "ring",
   "dhash": "716951d4cc6c7859",
-  "file": "ring/ring-blue-round-237e81d9.png",
-  "name": "ring (blue round)",
+  "file": "ring/ring-of-strength-blue-round-237e81d9.png",
+  "name": "Ring of Strength (blue round)",
   "phash": "9b4d1db66098663b",
   "sha256": "237e81d918b72f2f7adce4c386a39b3028a65da37f1443eda457357e5118f0da",
   "source": "Nic shared stash p1 r10c2 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "charm",
   "dhash": "73f0fcfcdc5a5a79",
-  "file": "charm/large-charm-1bb8eb6f.png",
-  "name": "large charm",
+  "file": "charm/large-charm-of-life-1bb8eb6f.png",
+  "name": "Large Charm of Life",
   "phash": "95cc6e2d6e34f092",
   "sha256": "1bb8eb6f60be35eacec3e8e5c21a8cd3b287af6f2ba6f593201e9b52ce42e9c1",
   "source": "Nic shared stash p1 r7c5 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "charm",
+  "dhash": "4dc191c8e8765e41",
+  "file": "charm/rugged-small-charm-of-lightning-e998e5a9.png",
+  "name": "Rugged Small Charm of Lightning",
+  "phash": "836a78bf43729c49",
+  "sha256": "e998e5a9005bf921bd166a3d9dc41dd4fb55783ca07139ce05e7f7099c4ad55b",
+  "source": "Nic shared stash p1 r8c6 2026-10-10",
+  "status": "confirmed"
+ },
+ {
+  "added": "2026-10-10",
+  "category": "ring",
+  "dhash": "7c7068d8d8d87939",
+  "file": "ring/steel-ring-fe7fa690.png",
+  "name": "Steel Ring",
+  "phash": "93243cb261f366ce",
+  "sha256": "fe7fa690289e27f89c04c3bfdea77c7115b9d9be4dc5c239d13bfe07a5467d7d",
+  "source": "Nic shared stash p1 r9c5 2026-10-10",
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "jewel",
-  "dhash": "4dc191c8e8765e41",
-  "file": "jewel/jewel-orange-oval-e998e5a9.png",
-  "name": "jewel? (orange oval)",
-  "phash": "836a78bf43729c49",
-  "sha256": "e998e5a9005bf921bd166a3d9dc41dd4fb55783ca07139ce05e7f7099c4ad55b",
-  "source": "Nic shared stash p1 r8c6 2026-10-10",
-  "status": "pending"
- },
- {
-  "added": "2026-10-10",
-  "category": "misc",
-  "dhash": "7c7068d8d8d87939",
-  "file": "misc/gold-framed-gem-orange-fe7fa690.png",
-  "name": "gold-framed gem (orange)",
-  "phash": "93243cb261f366ce",
-  "sha256": "fe7fa690289e27f89c04c3bfdea77c7115b9d9be4dc5c239d13bfe07a5467d7d",
-  "source": "Nic shared stash p1 r9c5 2026-10-10",
-  "status": "pending"
- },
- {
-  "added": "2026-10-10",
-  "category": "misc",
   "dhash": "329a99d8a7a3b06c",
-  "file": "misc/gold-framed-gem-purple-057703d9.png",
-  "name": "gold-framed gem (purple)",
+  "file": "jewel/camphor-jewel-of-knowledge-057703d9.png",
+  "name": "Camphor Jewel of Knowledge",
   "phash": "9899556c4f9b1ab2",
   "sha256": "057703d9da6acae364bc466ad08878f7906196defa0237852f6e78738eb2820f",
   "source": "Nic shared stash p1 r10c5 2026-10-10",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
