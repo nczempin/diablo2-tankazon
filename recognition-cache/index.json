@@ -939,22 +939,22 @@
   "category": "gem",
   "dhash": "49556569797d514d",
   "file": "gem/ruby-chipped-or-flawed-766af352.png",
-  "name": "Ruby (chipped or flawed)",
+  "name": "Chipped Ruby",
   "phash": "9ace65b19acca4b1",
   "sha256": "766af3524ef5a9034c2082ed0d7622eda83775b2c1fb263818227046f29d3590",
   "source": "Nic shared stash p1 2026-10-10 (grades per Nic)",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
   "category": "gem",
   "dhash": "4955616979757955",
   "file": "gem/ruby-chipped-or-flawed-2126625d.png",
-  "name": "Ruby (chipped or flawed)",
+  "name": "Chipped Ruby",
   "phash": "9ace65319acea4b1",
   "sha256": "2126625dec3bf80219a7e13cf20c3ce313ea00d3135b8b2dc669dc480ef2a772",
   "source": "Nic shared stash p1 2026-10-10 (grades per Nic)",
-  "status": "pending"
+  "status": "confirmed"
  },
  {
   "added": "2026-10-10",
